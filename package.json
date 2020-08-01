@@ -1,0 +1,24 @@
+{
+  "name": "nodejslearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikhr31/nodejslearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikhr31/nodejslearning/issues"
+  },
+  "homepage": "https://github.com/karthikhr31/nodejslearning#readme",
+  "dependencies": {
+    "mongoose": "^5.9.27",
+    "underscore": "^1.10.2"
+  }
+}
